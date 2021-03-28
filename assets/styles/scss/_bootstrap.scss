@@ -1,0 +1,17 @@
+@import '../../../node_modules/bootstrap/scss/functions';
+
+$primary: #C1D744;
+// $primary: mix(white, blue, 30%);
+
+$btn-border-radius: 25px;
+$btn-border-radius-sm: 25px;
+$btn-border-radius-lg: 25px;
+
+$card-bg: white;
+
+@import '../../../node_modules/bootstrap/scss/variables';
+@import '../../../node_modules/bootstrap/scss/mixins';
+
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+@import 'bootstrap-functions';
+@import '../../../node_modules/bootstrap/scss/buttons';
